@@ -1,0 +1,15 @@
+.fs-16 {
+
+    font-size: 16pt;
+    text-align: justify;
+  
+  }
+  a {
+  
+    cursor: pointer;
+  }
+  .bg-3 {
+  
+    background-image: linear-gradient( #f78a24, #ad74ee, #b193f8);
+  
+  }
