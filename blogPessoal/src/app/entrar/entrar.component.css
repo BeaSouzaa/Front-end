@@ -1,0 +1,18 @@
+#img-bg{
+
+    background-image: url('https://image.freepik.com/vetores-gratis/fundo-de-elementos-esbocos-de-blog_23-2147572815.jpg');
+    min-height: 695px;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    }
+    
+    .bg-fundo {
+    
+      background-image: url('https://media.istockphoto.com/photos/abstract-blur-gradient-blue-and-orange-background-picture-id1094133124?k=20&m=1094133124&s=170667a&w=0&h=7qc2tDLj484wem5oTdcVZ5464RgF4sihquyIKwmHE_o=');
+    min-height: 695px;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
