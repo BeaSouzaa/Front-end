@@ -11,7 +11,7 @@
   }
   .bg-fundo {
   
-     background-image: url('https://u7.uidownload.com/vector/457/430/vector-abstract-blue-orange-and-purple-liquid-color-fluid-gradient-geometric-background-ai-eps.jpg');
+     background-image: linear-gradient( #f78a24, #fac95f, #fd934c);
       min-height: 130px;
       background-position: justify;
       background-repeat: repeat;
