@@ -1,0 +1,22 @@
+.fs-16 {
+
+    font-size: 16pt;
+    text-align: justify;
+    font-style: oblique;
+  
+  }
+  a {
+  
+    cursor: pointer;
+  }
+  .bg-fundo {
+  
+     background-image: url('https://u7.uidownload.com/vector/457/430/vector-abstract-blue-orange-and-purple-liquid-color-fluid-gradient-geometric-background-ai-eps.jpg');
+      min-height: 130px;
+      background-position: justify;
+      background-repeat: repeat;
+      background-size: cover;
+      }
+
+  
+  
