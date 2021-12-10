@@ -1,8 +1,8 @@
 .fs-16 {
 
-    font-size: 16pt;
+    font-size: 18pt;
     text-align: justify;
-    font-style: oblique;
+    font-style: normal;
   
   }
   a {
@@ -11,7 +11,7 @@
   }
   .bg-fundo {
   
-     background-image: linear-gradient( #f78a24, #fac95f, #fd934c);
+     background-image: linear-gradient( #ffba7a, #fac95f, #fd934c);
       min-height: 130px;
       background-position: justify;
       background-repeat: repeat;
