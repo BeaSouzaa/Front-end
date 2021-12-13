@@ -38,16 +38,21 @@
                 <thead>
                   <tr>
                     <th scope="col">#</th>
-                    <th scope="col">Primeiro</th>
-                    <th scope="col">Último</th>
-                    
-                  </tr>
+                    <th scope="col">Descrição</th>
+                    <th scope="col" class="text-right">Modificações</th>
+                    </tr>
                 </thead>
                 <tbody>
-                  <tr *ngFor='let tema of listaTemas'>
-                    <th scope="row">1</th>
-                    <td>Mark</td>
-                    <td>Otto</td>
+                  <tr *ngFor='let item of listaTemas'>
+                    <th>{{item.id}}</th>
+                    <td>{{item.descricao}}</td>
+                    <td class = "d-flex justify-content-end">
+                        <button class="btn btn-info mr-3">Editar</button>
+                        <button class = "btn btn-danger">Apagar</button>
+
+
+
+                    </td>
                    
                   </tr>
                 </tbody>
